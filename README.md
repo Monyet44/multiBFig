@@ -1,4 +1,4 @@
-# multiBFig
+# multiBF_ig
 # Feature
 + multi thread
 + just requires keywords name
